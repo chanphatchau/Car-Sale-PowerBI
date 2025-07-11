@@ -1,6 +1,6 @@
 # 🚗 Car Sales Dashboard – Power BI Project
 
-This project presents a **comprehensive dashboard built in Power BI** to analyze car sales performance. It showcases key performance indicators (KPIs), sales trends, profitability, and customer behavior to help stakeholders make informed business decisions.
+This project presents a **comprehensive dashboard built in Power BI** to analyse car sales performance. It showcases key performance indicators (KPIs), sales trends, profitability, and customer behaviour to help stakeholders make informed business decisions.
 
 ---
 
