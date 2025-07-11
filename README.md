@@ -33,22 +33,22 @@ The dataset contains structured information across multiple dimensions:
 
 ## 📈 Dashboard Features
 
-- 🔹 **Key KPIs**: Total Revenue, Total Profit, Total Units Sold, Profit Margin  
-- 🔹 **Sales Trends**: Monthly revenue and unit sales over time  
-- 🔹 **Product Performance**: Top-selling models and types  
-- 🔹 **Customer Demographics**: Loyalty types and age group distributions  
-- 🔹 **Profitability**: Profit vs. cost across product types and customer segments  
-- 🔹 **Interactive Filters**: Time range, car type, customer group, etc.
+🔹 **Key KPIs**: Total Revenue, Total Profit, Total Units Sold, Profit Margin  
+🔹 **Sales Trends**: Monthly revenue and unit sales over time  
+🔹 **Product Performance**: Top-selling models and types  
+🔹 **Customer Demographics**: Loyalty types and age group distributions  
+🔹 **Profitability**: Profit vs. cost across product types and customer segments  
+🔹 **Interactive Filters**: Time range, car type, customer group, etc.
 
 ---
 
 ## 🧠 Skills Demonstrated
 
-- ✅ Power BI data modeling with relationships across multiple tables  
-- ✅ DAX formulas for calculated columns and KPIs  
-- ✅ Interactive visuals (slicers, cards, line/bar/donut charts)  
-- ✅ Dashboard design for clarity and storytelling  
-- ✅ Parameter controls and dynamic data filtering
+ ✅ Power BI data modeling with relationships across multiple tables  
+ ✅ DAX formulas for calculated columns and KPIs  
+ ✅ Interactive visuals (slicers, cards, line/bar/donut charts)  
+ ✅ Dashboard design for clarity and storytelling  
+ ✅ Parameter controls and dynamic data filtering
 
 ---
 
