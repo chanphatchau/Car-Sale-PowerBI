@@ -33,7 +33,7 @@ The dataset contains structured information across multiple dimensions:
 
 ## 📈 Dashboard Features
 
-🔹 **Key KPIs** – Total Revenue ($672M), Total Cars Sold (24K), Total Customers (3K), Avg Price ($28.1K)  
+🔹 **Key KPIs** – Total Revenue, Total Cars Sold, Total Customers, Avg Price   
 🔹 **Sales Over Time** – Interactive trends by week, month, and day of year  
 🔹 **Top/Bottom Products** – Best- and worst-selling models by quantity and revenue  
 🔹 **Dealer Performance** – Revenue ranking by top/bottom 5 dealerships  
@@ -46,13 +46,13 @@ The dataset contains structured information across multiple dimensions:
 
 ## 🔍 Key Insights
 
-- 💰 **Top car companies** include Chevrolet, Ford, and Dodge, contributing highest total revenue  
-- 🛍️ **Lexus LS400** and **Volkswagen Jetta** generated highest revenue among individual models  
-- 📉 **Sebring Convertible** and **Town & Country** were among the least performing models  
-- 🧍 **Male customers** represent ~79% of total purchases  
-- 🏙️ **High income customers** contributed the most to total car sales  
-- 📌 **Dealers like Rabun Used Car Sales** and **Progressive Shippers Cooperative Association** led in revenue  
-- 🗺️ **Regions such as Austin and Scottsdale** performed best in sales volume and dealer performance
+💰 **Top car companies** include Chevrolet, Ford, and Dodge, contributing highest total revenue  
+🛍️ **Lexus LS400** and **Volkswagen Jetta** generated highest revenue among individual models  
+📉 **Sebring Convertible** and **Town & Country** were among the least performing models  
+🧍 **Male customers** represent ~79% of total purchases  
+🏙️ **High income customers** contributed the most to total car sales  
+📌 **Dealers like Rabun Used Car Sales** and **Progressive Shippers Cooperative Association** led in revenue  
+🗺️ **Regions such as Austin and Scottsdale** performed best in sales volume and dealer performance
 
 ---
 
