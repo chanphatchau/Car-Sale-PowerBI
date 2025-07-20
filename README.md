@@ -33,12 +33,26 @@ The dataset contains structured information across multiple dimensions:
 
 ## 📈 Dashboard Features
 
-🔹 **Key KPIs**: Total Revenue, Total Profit, Total Units Sold, Profit Margin  
-🔹 **Sales Trends**: Monthly revenue and unit sales over time  
-🔹 **Product Performance**: Top-selling models and types  
-🔹 **Customer Demographics**: Loyalty types and age group distributions  
-🔹 **Profitability**: Profit vs. cost across product types and customer segments  
-🔹 **Interactive Filters**: Time range, car type, customer group, etc.
+🔹 **Key KPIs** – Total Revenue ($672M), Total Cars Sold (24K), Total Customers (3K), Avg Price ($28.1K)  
+🔹 **Sales Over Time** – Interactive trends by week, month, and day of year  
+🔹 **Top/Bottom Products** – Best- and worst-selling models by quantity and revenue  
+🔹 **Dealer Performance** – Revenue ranking by top/bottom 5 dealerships  
+🔹 **Customer Segmentation** – Sales by gender and income groups  
+🔹 **Brand Performance** – Market share and revenue by car brand and company  
+🔹 **Profitability & Category Comparison** – Units and revenue by body style, model, and colour  
+🔹 **Interactive Filters** – Drill-downs by model, engine type, customer group, dealer, and region
+
+---
+
+## 🔍 Key Insights
+
+- 💰 **Top car companies** include Chevrolet, Ford, and Dodge, contributing highest total revenue  
+- 🛍️ **Lexus LS400** and **Volkswagen Jetta** generated highest revenue among individual models  
+- 📉 **Sebring Convertible** and **Town & Country** were among the least performing models  
+- 🧍 **Male customers** represent ~79% of total purchases  
+- 🏙️ **High income customers** contributed the most to total car sales  
+- 📌 **Dealers like Rabun Used Car Sales** and **Progressive Shippers Cooperative Association** led in revenue  
+- 🗺️ **Regions such as Austin and Scottsdale** performed best in sales volume and dealer performance
 
 ---
 
@@ -50,5 +64,5 @@ The dataset contains structured information across multiple dimensions:
  ✅ Dashboard design for clarity and storytelling  
  ✅ Parameter controls and dynamic data filtering
 
----
+
 
