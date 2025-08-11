@@ -45,26 +45,31 @@ The model uses one-to-many relationships from each dimension to FactSales on sur
 **1. Sale Overview** 
    – KPI cards: YTD Total Revenue, YTD Average Price, Profit, YTD Total Car Sales, YTD Total Customers
    - Sales over Time: Days/Month/Year with YOY variance
+  
   ![Sale Overview](assets/sales-overtime.png)
 
 **2. Model Performance**
    - Top/Bottom 10 Model by quantity solds
    - Quantity Solds by body styles and colors
+  
   ![Model Performance](assets/model-performance.png)
 
 **3. Dealer Performance**
    - Top/Bottom 5 dealers by revenue
    - Regional heat (City / State)
+  
   ![Dealer Performance](assets/dealer-performance.png)
 
 **4. Brand Performance**
    - Top/Bottom 5 Companies by revenue
    - % Car Market Share by company
+  
   ![Dealer Performance](assets/brand-performance.png)
 
 **5. Customer Overview**
    - Color Preferences by Gender, Customer's Income Band
    - Customers Information
+  
   ![Customer Overview](assets/customer-overview.png)
 
 ---
