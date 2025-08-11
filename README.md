@@ -70,25 +70,25 @@ The model uses one-to-many relationships from each dimension to FactSales on sur
 ## 🔍 Key Insights
 
 💰 **Top car companies** include **Chevrolet($47.7M)**, **Ford ($47.2M)**, and **Dodge ($44.1M)**, contributing highest total revenue
-![Top Car Companies](assets/top-car-company.png)
+   ![Top Car Companies](assets/top-car-company.png)
 
 🛍️ **Diamante** and **Prizm** generated highest revenue among individual models
-![Top Model](assets/top-model.png)
+   ![Top Model](assets/top-model.png)
 
 📉 **RX300** and **Sebring Conv.** were among the least performing models
-![Bottom Model](assets/bottom-model.png)
+   ![Bottom Model](assets/bottom-model.png)
 
 🧍 **Male customers** represent ~79% of total purchases
-![Customer Gender](assets/customer-gender.png)
+   ![Customer Gender](assets/customer-gender.png)
 
 🏙️ **High income customers** contributed the most to total car sales
-![Income Band](assets/income-band.png)
+   ![Income Band](assets/income-band.png)
 
 📌 **Dealers like Rabun Used Car Sales($37.5M)** and **Progressive Shippers Cooperative Association($36.8M)** led in revenue
-![Top Dealer](assets/top-dealer.png)
+   ![Top Dealer](assets/top-dealer.png)
 
 🗺️ **Regions such as Pasco and Janesville** performed best in sales volume and dealer performance
-![Top Region](assets/region.png)
+   ![Top Region](assets/region.png)
 
 ---
 
