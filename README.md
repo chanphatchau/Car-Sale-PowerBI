@@ -5,9 +5,11 @@ This project presents a **comprehensive dashboard built in Power BI** to analyse
 
 ---
 
-##📌 Summary
+## 📌 Summary
 
 This repository contains a production‑ready Power BI dashboard (Car Sales Dashboard.pbix) and documentation for exploring sales trends, profitability, customer behaviour and dealer performance. The dashboard is designed for quick executive readouts and deeper ad‑hoc analysis via slicers and drill‑through.
+
+---
 
 ## 🎯 Project Objective
 
@@ -70,12 +72,15 @@ The model uses one-to-many relationships from each dimension to FactSales on sur
 ## 🔍 Key Insights
 
 💰 **Top car companies** include **Chevrolet($47.7M)**, **Ford ($47.2M)**, and **Dodge ($44.1M)**, contributing highest total revenue.
+   
    ![Top Car Companies](assets/top-car-company.png)
 
 🛍️ **Diamante** and **Prizm** generated highest revenue among individual models.
+   
    ![Top Model](assets/top-model.png)
 
 📉 **RX300** and **Sebring Conv.** were among the least performing models.
+   
    ![Bottom Model](assets/bottom-model.png)
 
 🧍 **Male customers** represent ~79% of total purchases.
@@ -87,9 +92,11 @@ The model uses one-to-many relationships from each dimension to FactSales on sur
    ![Income Band](assets/income-band.png)
 
 📌 **Dealers like Rabun Used Car Sales($37.5M)** and **Progressive Shippers Cooperative Association($36.8M)** led in revenue.
+   
    ![Top Dealer](assets/top-dealer.png)
 
 🗺️ **Regions such as Pasco and Janesville** performed best in sales volume and dealer performance.
+   
    ![Top Region](assets/region.png)
 
 ---
