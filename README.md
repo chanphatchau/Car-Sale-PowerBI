@@ -1,5 +1,5 @@
 # 🚗 Car Sales Dashboard – Power BI Project
-![Cover – Car Sales Dashboard](assets/Sales Overtime)
+![Cover – Car Sales Dashboard](assets/Sales Overtime.png)
 
 This project presents a **comprehensive dashboard built in Power BI** to analyse car sales performance. It showcases key performance indicators (KPIs), sales trends, profitability, and customer behaviour to help stakeholders make informed business decisions.
 
