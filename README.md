@@ -1,7 +1,7 @@
 # 🚗 Car Sales Dashboard – Power BI Project
 ![Cover – Car Sales Dashboard](assets/sales-overtime.png)
 
-This project presents a **comprehensive dashboard built in Power BI** to analyse car sales performance. It showcases key performance indicators (KPIs), sales trends, profitability, and customer behaviour to help stakeholders make informed business decisions. Data source 
+This project presents a **comprehensive dashboard built in Power BI** to analyse car sales performance. It showcases key performance indicators (KPIs), sales trends, profitability, and customer behaviour to help stakeholders make informed business decisions. 
 
 ---
 
@@ -79,10 +79,11 @@ The model uses one-to-many relationships from each dimension to FactSales on sur
    ![Bottom Model](assets/bottom-model.png)
 
 🧍 **Male customers** represent ~79% of total purchases.
+   
    ![Customer Gender](assets/customer-gender.png)
 
-
 🏙️ **High income customers** contributed the most to total car sales.
+   
    ![Income Band](assets/income-band.png)
 
 📌 **Dealers like Rabun Used Car Sales($37.5M)** and **Progressive Shippers Cooperative Association($36.8M)** led in revenue.
