@@ -28,7 +28,7 @@ This repository contains a production‑ready Power BI dashboard (Car Sales Dash
 
 ---
 
-## 🧩 Data Model (Star Schema)
+## 🧩 Data Model 
 
 - **FactSales:** Date, ProductID, DealerID, CustomerID, Units, UnitPrice, Cost, Revenue, Profit
 - **Dimension DateTable:** Date, Year, Quarter, Month, Day, Week
