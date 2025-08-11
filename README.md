@@ -34,7 +34,7 @@ This repository contains a production‑ready Power BI dashboard (Car Sales Dash
 - **Dimension Dealer:** DealerID, DealerName, Region
 - **Dimension Customer:** CustomerID, Gender, AgeBand
 
-The model uses one-to-many relationships from each dimension to FactSales on surrogate keys. The Dimensio Date[DateTable] table is marked as a Date table.
+The model uses one-to-many relationships from each dimension to FactSales on surrogate keys. The Dimension Date[DateTable] table is marked as a Date table.
 
 ---
 
@@ -61,7 +61,7 @@ The model uses one-to-many relationships from each dimension to FactSales on sur
   ![Dealer Performance](assets/brand-performance.png)
 
 **5. Customer Overview**
-   - Color Preferences by Gender, Customer's Income Band, 
+   - Color Preferences by Gender, Customer's Income Band
    - Customers Information
   ![Customer Overview](assets/customer-overview.png)
 
@@ -71,16 +71,22 @@ The model uses one-to-many relationships from each dimension to FactSales on sur
 
 💰 **Top car companies** include **Chevrolet($47.7M)**, **Ford ($47.2M)**, and **Dodge ($44.1M)**, contributing highest total revenue
 ![Top Car Companies](assets/top-car-company.png)
+
 🛍️ **Diamante** and **Prizm** generated highest revenue among individual models
 ![Top Model](assets/top-model.png)
+
 📉 **RX300** and **Sebring Conv.** were among the least performing models
 ![Bottom Model](assets/bottom-model.png)
+
 🧍 **Male customers** represent ~79% of total purchases
 ![Customer Gender](assets/customer-gender.png)
+
 🏙️ **High income customers** contributed the most to total car sales
 ![Income Band](assets/income-band.png)
+
 📌 **Dealers like Rabun Used Car Sales($37.5M)** and **Progressive Shippers Cooperative Association($36.8M)** led in revenue
 ![Top Dealer](assets/top-dealer.png)
+
 🗺️ **Regions such as Pasco and Janesville** performed best in sales volume and dealer performance
 ![Top Region](assets/region.png)
 
