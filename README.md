@@ -1,5 +1,5 @@
 # 🚗 Car Sales Dashboard – Power BI Project
-![Cover – Car Sales Dashboard](assets/sales-overtime.png)
+![Cover – Car Sales Dashboard](assets/sales-overtime-2.png)
 
 This project presents a **comprehensive dashboard built in Power BI** to analyse car sales performance. It showcases key performance indicators (KPIs), sales trends, profitability, and customer behaviour to help stakeholders make informed business decisions. 
 
@@ -46,7 +46,7 @@ The model uses one-to-many relationships from each dimension to FactSales on sur
    – KPI cards: YTD Total Revenue, YTD Average Price, Profit, YTD Total Car Sales, YTD Total Customers
    - Sales over Time: Days/Month/Year with YOY variance
   
-  ![Sale Overview](assets/sales-overtime.png)
+  ![Sale Overview](assets/sales-overtime-2.png)
 
 **2. Model Performance**
    - Top/Bottom 10 Model by quantity solds
