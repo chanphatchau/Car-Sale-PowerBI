@@ -108,21 +108,21 @@ The model uses one-to-many relationships from each dimension to FactSales on sur
 
 ## 🛠️ Recommended Actions
 
-Top brands/models (Chevrolet, Ford, Dodge; Lexus LS400, VW Jetta): Prioritise stock and prominence; test small +2–3% price lifts; use value-add bundles (servicing, warranty) to lift AOV without margin erosion.
+- Top brands (Chevrolet, Ford, Dodge): Keep plenty in stock, give them prime placement, test small 2 to 3% price rises, and use add-ons (free service/warranty) to lift the average sale.
 
-Underperformers (Sebring Convertible, Town & Country): Targeted markdowns or service bundles; if sell-through stays weak after 60–90 days, exit/swap trims.
+- Underperformers (Sebring Convertible, Town & Country): Try discounts or service bundles; if sales stay slow after 2 to 3 months, replace or stop stocking.
 
-Customer mix (≈79% male; high-income): Keep premium offers for core segment; add a female-focused stream (safety/ease-of-use messaging) to broaden reach; launch VIP/loyalty perks.
+- Customer mix (≈79% male; higher income): Keep premium offers; add a stream aimed at women (safety, ease-of-use); start a simple loyalty program.
 
-Dealers: Replicate leader playbooks via dealer scorecards and tiered incentives; coach laggards on digital leads and inventory mix; set clear improvement targets.
+- Dealers: Copy what top dealers do; use simple dealer scorecards (lead follow-up time, test-drive rate, margin); offer bonuses; coach weaker dealers.
 
-Regions (Austin, Scottsdale): Allocate extra stock; run geo-targeted ads and local partnerships; use a city/ZIP heatmap to find adjacent high-potential pockets.
+- Regions (Austin, Janesville): Send more stock; run local ads near the dealerships; try small local events; use a map view to find nearby high-potential suburbs.
 
-Pricing & margin: Track discount depth vs margin; where demand is inelastic, favour value-adds over price cuts.
+- Pricing & margin: Watch discount size vs margin; if demand holds, prefer add-ons over price cuts.
 
-Inventory & ops: Maintain a slow-mover list (bottom 20%); forecast with seasonality; hold safety stock for top sellers.
+- Inventory: Keep a weekly slow-items list; plan for busy seasons; hold a small buffer of top models.
 
-Metrics to monitor: Win-rate by dealer, lead→test-drive %, stock-out rate, repeat-purchase rate, Price vs Units (elasticity), regional campaign lift.
+- Metrics to watch: Dealer win rate, out-of-stock rate, repeat-purchase rate, price vs units chart (price sensitivity), campaign lift by region.
 
 ---
 
