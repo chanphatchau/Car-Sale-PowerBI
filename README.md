@@ -106,6 +106,22 @@ The model uses one-to-many relationships from each dimension to FactSales on sur
 
 ---
 
+Top brands/models (Chevrolet, Ford, Dodge; Lexus LS400, VW Jetta): Prioritise stock and prominence; test small +2–3% price lifts; use value-add bundles (servicing, warranty) to lift AOV without margin erosion.
+
+Underperformers (Sebring Convertible, Town & Country): Targeted markdowns or service bundles; if sell-through stays weak after 60–90 days, exit/swap trims.
+
+Customer mix (≈79% male; high-income): Keep premium offers for core segment; add a female-focused stream (safety/ease-of-use messaging) to broaden reach; launch VIP/loyalty perks.
+
+Dealers: Replicate leader playbooks via dealer scorecards and tiered incentives; coach laggards on digital leads and inventory mix; set clear improvement targets.
+
+Regions (Austin, Scottsdale): Allocate extra stock; run geo-targeted ads and local partnerships; use a city/ZIP heatmap to find adjacent high-potential pockets.
+
+Pricing & margin: Track discount depth vs margin; where demand is inelastic, favour value-adds over price cuts.
+
+Inventory & ops: Maintain a slow-mover list (bottom 20%); forecast with seasonality; hold safety stock for top sellers.
+
+Metrics to monitor: Win-rate by dealer, lead→test-drive %, stock-out rate, repeat-purchase rate, Price vs Units (elasticity), regional campaign lift.
+
 ## 🧠 Skills Demonstrated
 
  ✅ Power BI data modeling with relationships across multiple tables  
