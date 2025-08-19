@@ -46,31 +46,31 @@ The model uses one-to-many relationships from each dimension to FactSales on sur
    – KPI cards: YTD Total Revenue, YTD Average Price, Profit, YTD Total Car Sales, YTD Total Customers
    - Sales over Time: Days/Month/Year with YOY variance
   
-  ![Sale Overview](assets/sales-overtime-2.png)
+  ![Sale Overview](assets/sales-overtime-3.png)
 
 **2. Model Performance**
    - Top/Bottom 10 Model by quantity solds
    - Quantity Solds by body styles and colors
   
-  ![Model Performance](assets/model-performance.png)
+  ![Model Performance](assets/model-performance-2.png)
 
 **3. Dealer Performance**
    - Top/Bottom 5 dealers by revenue
    - Regional heat (City / State)
   
-  ![Dealer Performance](assets/dealer-performance.png)
+  ![Dealer Performance](assets/dealer-performance-2.png)
 
 **4. Brand Performance**
    - Top/Bottom 5 Companies by revenue
    - % Car Market Share by company
   
-  ![Dealer Performance](assets/brand-performance.png)
+  ![Dealer Performance](assets/brand-performance-2.png)
 
 **5. Customer Overview**
    - Color Preferences by Gender, Customer's Income Band
    - Customers Information
   
-  ![Customer Overview](assets/customer-overview.png)
+  ![Customer Overview](assets/customer-overview-2.png)
 
 ---
 
@@ -90,7 +90,7 @@ The model uses one-to-many relationships from each dimension to FactSales on sur
 
 🧍 **Male customers** represent ~79% of total purchases.
    
-   ![Customer Gender](assets/customer-gender.png)
+   ![Customer Gender](assets/customer-gender-2.png)
 
 🏙️ **High income customers** contributed the most to total car sales.
    
@@ -102,7 +102,7 @@ The model uses one-to-many relationships from each dimension to FactSales on sur
 
 🗺️ **Regions such as Pasco and Janesville** performed best in sales volume and dealer performance.
    
-   ![Top Region](assets/region.png)
+   ![Top Region](assets/region-2.png)
 
 ---
 
