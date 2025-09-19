@@ -70,7 +70,7 @@ The model uses one-to-many relationships from each dimension to FactSales on sur
    - Color Preferences by Gender, Customer's Income Band
    - Customers Information
   
-  ![Customer Overview](assets/customer-overview.png)
+  ![Customer Overview](assets/customers-overview.png)
 
 ---
 
